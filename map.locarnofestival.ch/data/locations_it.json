@@ -1,0 +1,236 @@
+{
+    "locations": [
+        {
+            "venueIds": [1],
+            "image": "LFF-pin",
+            "title": "Piazza Grande",
+            "subtitle": "Capienza: 8000. Accessibilità: È disponibile una zona riservata alle sedie a rotelle con accesso sul lato destro dell’entrata principale. Non è consentito l’accesso e il transito per i passeggini.",
+            "address": "Piazza Grande, Locarno",
+            "latitude": 46.16964388701049,
+            "longitude": 8.79581140529161,
+			"linkurl": "https://www.locarnofestival.ch/LFF/about/the-festival/venues/piazza-grande.html",
+			"picture": "piazza.jpg"
+        },
+        {
+            "venueIds": [17,18],
+            "image": "LFF-pin",
+            "title": "PalaCinema",
+            "subtitle": "Capienza totale: 900 (PalaCinema 1: 472; PalaCinema 2: 129; PalaCinema 3: 129). Accessibilità: Le tre sale sono accessibili a persone con mobilità ridotta e sono dotate dell’impianto CinemaConnect Audio System di Sennheiser.",
+            "address": "PalaCinema Locarno, Via Dottor Giovanni Varesi 1, 6600 Locarno",
+            "latitude": 46.167966338930825,
+            "longitude": 8.794435952014146,
+			"linkurl": "https://www.locarnofestival.ch/LFF/about/the-festival/venues/palacinema.html",
+			"picture": "palacinema.jpg"
+        },
+        {
+            "venueIds": [2],
+            "image": "LFF-pin",
+            "title": "Palexpo (FEVI)",
+            "subtitle": "Capienza: 2800. Accessibilità: La sala è accessibile a persone con mobilità ridotta.",
+            "address": "Palexpo Fevi, Via alla Peschiera 9, 6600 Locarno",
+            "latitude": 46.16443500038862,
+            "longitude": 8.78882842144352,
+			"linkurl": "https://www.locarnofestival.ch/LFF/about/the-festival/venues/palexpo.html",
+			"picture": "fevi.jpg"
+        },
+        {
+            "venueIds": [11],
+            "image": "LFF-pin",
+            "title": "La Sala",
+            "subtitle": "Capienza: 900. Accessibilità: La sala è accessibile a persone con mobilità ridotta.",
+            "address": "Via Francesco Chiesa 15, 6600 Locarno",
+            "latitude": 46.162557286000805,
+            "longitude": 8.787126264631265,
+			"linkurl": "https://www.locarnofestival.ch/LFF/about/the-festival/venues/la-sala.html",
+			"picture": "lasala.jpg"
+        },
+        {
+            "venueIds": [12],
+            "image": "LFF-pin",
+            "title": "L’altra Sala",
+            "subtitle": "Capienza: 420. Accessibilità: La sala è accessibile a persone con mobilità ridotta.",
+            "address": "Via Francesco Chiesa 17, 6600 Locarno",
+            "latitude": 46.162944419119846,
+            "longitude": 8.7865852523427,
+			"linkurl": "https://www.locarnofestival.ch/LFF/about/the-festival/venues/l-altra-sala.html",
+			"picture": "altrasala.jpg"
+        },
+		{
+            "venueIds": [4],
+            "image": "LFF-pin",
+            "title": "GranRex Auditorium Leopard Club",
+            "subtitle": "Capienza: 443. Accessibilità: La sala è accessibile a persone con mobilità ridotta ed è dotata di un impianto a induzione per persone deboli d’udito e portatrici di apparecchi acustici con la bobina T, azionabile su richiesta al personale di sala.",
+            "address": "GranRex Auditorium Leopard Club, Via Bossi 2, 6600 Locarno",
+            "latitude": 46.16920450068947,
+            "longitude": 8.794297583164159,
+			"linkurl": "https://www.locarnofestival.ch/LFF/about/the-festival/venues/granrex.html",
+			"picture": "granrex.jpg"
+			
+        },
+        {
+            "venueIds": [3],
+            "image": "LFF-pin",
+            "title": "Teatro Kursaal",
+            "subtitle": "Capienza: 482. Accessibilità: La sala è accessibile a persone con mobilità ridotta.",
+            "address": "Teatro Kursaal, Largo Franco Zorzi 1, 6600 Locarno",
+            "latitude": 46.16978476597093,
+            "longitude": 8.79883919106684,
+			"linkurl": "https://www.locarnofestival.ch/LFF/about/the-festival/venues/teatro-kursaal.html",
+			"picture": "kursaal.jpg"
+        },
+        {
+            "venueIds": [6, 7, 8, 20, 21],
+            "image": "LFF-pin",
+            "title": "Cinema Rialto",
+            "subtitle": "Capienza totale: 375 (Rialto 1: 170; Rialto 2: 104; Rialto 3: 91). Accessibilità: Le sale sono accessibili a persone con mobilità ridotta e sono dotate di un impianto a induzione per persone deboli d’udito e portatrici di apparecchi acustici con la bobina T, azionabile su richiesta al personale di sala",
+            "address": "Cinema Rialto, Via S. Gottardo 1, 6600 Locarno",
+            "latitude": 46.17357507502758,
+            "longitude": 8.801664146879341,
+			"linkurl": "https://www.locarnofestival.ch/LFF/about/the-festival/venues/cinema-rialto.html",
+			"picture": "rialto.jpg"
+        },
+        {
+            "venueIds": [10],
+            "image": "LFF-pin",
+            "title": "PalaVideo @Palazzo dei Congressi Muralto",
+            "subtitle": "Capienza: 270. Accessibilità: La sala non è attualmente accessibile a persone con mobilità ridotta. Stiamo lavorando per risolvere il problema e rendere tutte le sale del Festival accessibili.",
+            "address": "PalaVideo Muralto, Via Municipio 2, 6600 Muralto",
+            "latitude": 46.17283948514545,
+            "longitude": 8.806037520882821,
+			"linkurl": "https://www.locarnofestival.ch/LFF/about/the-festival/venues/palavideo.html",
+			"picture": "palavideo.jpg"
+        },
+		{
+            "venueIds": [9],
+            "image": "LFF-pin",
+            "title": "Cinema Otello @Ascona",
+            "subtitle": "Capienza: 158. Accessibilità: La sala è accessibile a persone con mobilità ridotta. ",
+            "address": "Cinema Otello, Viale Bartolomeo Papio 8, 6612 Ascona",
+            "latitude": 46.156237001033574,
+            "longitude": 8.770146744779257,
+			"linkurl": "https://www.locarnofestival.ch/LFF/about/the-festival/venues/otello.html",
+			"picture": "otello.jpg"
+        },
+        {
+            "image": "LFF-pin",
+            "title": "Magnolia",
+            "subtitle": "Racchiude la Leopard Club Lounge by Manor & Campari, spazio esclusivo per i membri del club di sostegno al Festival; la Davide Campari Lounge, aperta al pubblico; la Locarno Boutique by Manor, punto vendita del merchandising del Festival.",
+            "latitude": 46.169539705055804,
+            "longitude": 8.79720780927379
+        },		
+        {
+            "image": "LFF-pin",
+            "title": "Rotonda by la Mobiliare",
+            "subtitle": "Luogo d’incontro per tutti i festivalieri. Concerti, Food&Beverage e tanto altro. La Rotonda by la Mobiliare è stata concepita seguendo i principi di design inclusivo ed è accessibile a persone con mobilità ridotta.",
+			"address": "46.1668320326146,8.793327415407987",
+            "latitude": 46.166808,
+            "longitude": 8.793334,
+			"linkurl": "https://www.locarnofestival.ch/LFF/locarno75/locarno-extra/rotonda.html",
+			"picture": "rotonda.jpg"
+        },
+		{
+            "image": "LFF-pin",
+            "title": "Spazio Cinema",
+            "subtitle": "Lo Spazio Cinema si compone del Forum, che propone tavole rotonde, Q&A, panel e conversazioni con gli ospiti e della Swiss Life Lounge che permette al pubblico una discussione aperta attorno al cinema in un’atmosfera informale. Lo Spazio Cinema è accessibile a persone con mobilità ridotta.",
+			"address": "Via della Morettina 11, 6600 Locarno",
+			"latitude": 46.16373880429167,
+            "longitude": 8.787930893155762,
+			"linkurl": "https://www.locarnofestival.ch/LFF/about/the-festival/venues/spazio-cinema.html",
+			"picture": "forum.jpg"
+        },
+		{
+            "image": "LFF-pin",
+            "title": "VR Projection booth",
+            "subtitle": "Esperienza virtual reality in collaborazione con Geneva International Film Festival (GIFF).",
+			"address" : "46.16967236839913,8.797513067963555",
+            "latitude": 46.16967236839913, 
+            "longitude": 8.797513067963555
+        },
+        {
+            "image": "LFF-pin",
+            "title": "Press Village",
+            "subtitle": "Luogo delle conferenze stampa e dei Photocall. Inoltre, è disponibile anche una postazione di lavoro, la Press Room, con computer, connessione internet e stampanti. L’accesso al Press Village è garantito unicamente con l’accredito stampa/fotografo.",
+			"address": "Via Santa Caterina 4, 6600 Locarno",
+            "latitude": 46.170534075659624,
+            "longitude": 8.79761372437443
+        },
+        {
+            "image": "LFF-pin",
+            "title": "Press Lounge by Nespresso",
+            "subtitle": "Luogo d’incontro e di lavoro per giornalisti, ma anche di ristoro, aperto a tutto il pubblico, dove potersi rilassare e gustare un buon caffè.",
+			"address": "46.17006192790606,8.798603923539394",
+            "latitude": 46.17006192790606,
+            "longitude": 8.798603923539394
+        },
+        {
+            "image": "LFF-pin",
+            "title": "Locarno Pro Center",
+            "subtitle": "Il centro nevralgico per i professionisti dell’industria: meetings, think tank, tavole rotonde, masterclass e tanto altro. Il Locarno Pro Center è accessibile a persone con mobilità ridotta.",
+            "address": "Hotel Belvedere, via ai Monti 44, 6600 Locarno",
+            "latitude": 46.1730623667649,
+            "longitude": 8.79555470166999
+        },
+        {
+            "image": "LFF-pin",
+            "title": "Industry Lounge",
+			"subtitle": "Lo spazio dedicato ai professionisti dell’industria, dove poter organizzare meeting in autonomia e lavorare in tranquillità. Connessione internet, accesso riservato agli accreditati industry dalle 9.00 alle 18.00. La Lounge è accessibile a persone con mobilità ridotta.",
+			"address": "46.169469,8.797477",
+            "latitude": 46.169469,
+            "longitude": 8.797477
+        },
+        {
+            "image": "LFF-pin",
+            "title": "Locarno Pro – Open Doors Club",
+            "subtitle": "Il luogo in cui si svolgono tutte le attività professionali di Open: masterclass, sessioni di gruppo, incontri individuali e pranzi di networking (su invito). Il Locarno Pro – Open Doors Club è accessibile solamente tramite scale, senza ascensore. ",
+			"address": "Spazio ELLE, via Pedrazzini 12, 6600 Locarno",
+            "latitude": 46.16695452021185,
+            "longitude": 8.798529920690953
+        },
+		{
+            "image": "LFF-pin",
+            "title": "Palazzo Casorella",
+			"address": "46.168308449241856,8.793479280997344",
+            "latitude": 46.168308449241856, 
+            "longitude": 8.793479280997344
+        },
+		{
+            "image": "LFF-pin",
+            "title": "Magistrale",
+			"address": "46.167506727763495,8.791449340055888",
+            "latitude": 46.167506727763495, 
+            "longitude": 8.791449340055888
+        },
+		{
+            "image": "LFF-pin",
+            "title": "BaseCamp @Losone",
+            "subtitle": "",
+			"address": "Via Papogna 10, 6616 Losone",
+            "latitude": 46.16901320103316,
+            "longitude": 8.764644659830761
+        },
+		{
+            "image": "LFF-info",
+            "title": "Info Point principale",
+            "latitude": 46.16965582334466, 
+            "longitude": 8.796647722205217
+        },
+		{
+            "image": "LFF-info",
+            "title": "Info Point Palexpo (FEVI)",
+            "latitude": 46.164011673039354, 
+            "longitude": 8.789048104484467
+        },
+		{
+            "image": "LFF-info",
+            "title": "Info Point",
+            "latitude": 46.169084041321966,
+            "longitude": 8.79472956831609
+        },
+		{
+            "image": "LFF-bike",
+            "title": "Noleggio biciclette",
+            "latitude": 46.16978553664626,
+            "longitude": 8.7983530469542
+        }
+    ]
+}
